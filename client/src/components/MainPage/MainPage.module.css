@@ -1,0 +1,31 @@
+.wrapper {
+    height: 100vh;
+    position: relative;
+    
+}
+
+.center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+.button {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 75px;
+    width: 150px;
+    background-color: #05386B;
+    color: white
+}
+.maintext {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+}
+
+    
